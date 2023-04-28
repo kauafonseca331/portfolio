@@ -1,0 +1,110 @@
+1) Existem quatro princípios básicos, quais são? Comente
+sobre cada um deles, explicando com exemplos.
+R -
+Disponibilidade -
+A disponibilidade é um princípio associado à acessibilidade dos dados e sistemas da
+empresa. Ou seja, a capacidade dos seus colaboradores, stakeholders e diretores
+consultarem as informações a qualquer momento.
+
+Integridade - envolve a proteção contra modificações não autorizadas (por exemplo,
+adicionar, excluir ou alterar) de dados. O princípio da integridade nos fundamentos de
+segurança da informação foi desenvolvido para garantir que os dados sejam confiáveis e
+que não tenham sido modificados de maneira maliciosa.
+
+Confidencialidade - Confidencialidade refere-se às medidas desenvolvidas com a
+missão de proteger os dados contra a divulgação e o acesso não autorizado. O principal
+objetivo desse princípio é garantir que as informações confidenciais permaneçam em sigilo
+e que estejam disponíveis apenas para pessoas autorizadas.
+
+Autenticidade - Ela é a propriedade que permite garantir que o emissor de
+determinada informação seja realmente quem alega ser, assegurando que a mensagem é
+realmente proveniente da fonte declarada. Ou seja, ela garante a identidade, de forma
+inequívoca, do remetente da informação.
+
+2) Bob envia a mensagem “Oi, tudo bem?” para Alice;
+A mensagem foi interceptada no meio do caminho;
+Após a interceptação, foi alterada para:
+
+“Oi tudo bem!”
+
+Qual ou quais princípios de Segurança da Informação foram violados?
+
+Explique!
+
+Resposta - Integridade pois ela evita que as informações sejam
+alteradas ou deletadas por pessoas não autorizadas.
+
+3) Bob captura a chave do email de Alice;
+Bob envia um email para Ted em nome de Alice;
+Qual ou quais princípios de Segurança da Informação foram violados?
+
+Explique!
+
+Resposta - Confidencialidade pois garante que os dados estejam
+protegidos contra pessoas não autorizadas.
+4) Bob entra no whatsapp de maria e manda uma mensagem para
+seus parentes porém sem sua autorização com isso a mensagem
+acabou sendo alterada, para finalizar o aplicativo em si acabou
+“crashando” após enviar essa mensagem. -
+Integridade,confidencialidade e disponibilidade.
+5) Se algum software malicioso derrubar o serviço da Netflix, qual foi o
+princípio violado?
+Explique!
+Disponibilidade pois a netflix necessita de ter um plano para
+administração contra crises e falhas de software.
+6) Cite um exemplo de cumprimeto de cada princípio de Segurança
+da Informação.
+• Disponibilidade - Atualizações constantes
+• Integridade - Evitar ciberataques
+• Confidencialidade - proteção contra pessoas não autorizadas
+• Autenticidade - Utilização de recursos como biometria
+
+7) O que é um Sistema Operacional? Sistema operativo ou
+operacional é um programa ou um conjunto de programas cuja função é
+gerenciar os recursos do sistema, fornecendo uma interface entre o
+computador e o usuário ou utilizador.
+Quais são os três objetivos principais?
+defina-os. compartilhamento de hardware entre usuários;
+compartilhamento de dados entre usuários; gerenciamento dos
+dispositivos de entrada e saída; tratamento e recuperação de erros.
+
+O que são Periféricos e componentes? O hardware são as partes
+físicas do próprio computador. Isso inclui a Unidade Central de
+Processamento (CPU), unidades de armazenamento, placas mãe,
+placas de vídeo, memória, etc. Outras partes extras chamados
+componentes ou dispositivos periféricos incluem o mouse,
+impressoras, modems, scanners, câmeras, etc.
+Cite 5 funcionalidades de um Sistema
+Operacional - Definição da interface com o usuário;
+compartilhamento de hardware entre usuários; compartilhamento
+de dados entre usuários; gerenciamento dos dispositivos de
+entrada e saída; tratamento e recuperação de erros.
+O que é e para que serve o Kernel de um
+Sistema Operacional? Função do Kernel. O Kernel, núcleo do
+sistema, é responsável por conectar o software ao hardware. Desta
+forma, ele estabelece uma comunicação eficaz entre os recursos
+do sistema operacional e administra suas funções.
+8) Na área de trabalho, crie um diretório com seu nome, dentro
+do diretório deverá conter outros 3 diretórios com os
+nomes(Principal, Copiar, Mover), dentro do diretório principal crie
+3 arquivos, onde, o primeiro não tem nada é apenas um arquivo
+vazio, o segundo quando criado já terá o texto “com informação”
+no ultimo será um arquivo de sua preferência(.txt) pode ou não
+ter texto dentro. Quais os comandos utilizados para realizar essas
+tarefas, listar todos eles em ordem.
+R: $ cd desktop
+
+$ mkdir kauã
+
+$ cd kauã
+
+$ mkdir Principal Mover Copiar
+
+$ touch arquivo1
+
+$ echo "com informação" >> arquivo2.txt
+
+$ cat > arquivo3.txt
+[1]+ Stopped cat > arquivo3.txt
+
+Kauã Fonseca Vieira 1B
